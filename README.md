@@ -16,8 +16,8 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 
 ## Program:
 ```
-Developed by:AADITHYAN R
-RegisterNumber:  212222230001
+Developed by:ROHIT G
+RegisterNumber:  212222240083
 
 ```
 ~~~
